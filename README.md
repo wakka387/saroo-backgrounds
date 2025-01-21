@@ -33,10 +33,6 @@ ssfirm.bin (file)
 
 
 
-[SEGA Logo on Sonic 3D Blast (Image)](downloads/others/sega-sonic-3d.7z)
-
-![](gifs/sega-sonic-3d.gif)
-
 [SEGA Saturn (Image)](downloads/others/sega-saturn.7z)
 
 ![](gifs/sega-saturn.gif)
